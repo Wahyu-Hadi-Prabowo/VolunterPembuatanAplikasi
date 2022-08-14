@@ -6,4 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 
-* Wahyu Hadi Prabowo, [Github] (https://github.com/Wahyung)**
+* Wahyu Hadi Prabowo, [Github] (https://github.com/Wahyung)
