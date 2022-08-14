@@ -6,4 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 
-* Wahyu Hadi Prabowo, [Wahyu Hadi Prabowo.CV](https://drive.google.com/file/d/1WrQvKj3bTboViSynHlLOfxZs10v4EaII/view?usp=sharing)**
+* Wahyu Hadi Prabowo, [Wahyu Hadi Prabowo.CV] (https://drive.google.com/file/d/1WrQvKj3bTboViSynHlLOfxZs10v4EaII/view?usp=sharing)**
